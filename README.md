@@ -24,14 +24,10 @@ orderDetail
 
 Credentials
 -----------
-Admin
------
-Email-> admin@admin.com
-Password-> admin
 User
 ----
-Email-> abc@abc.com
-Password-> abc@123
+Email-> abc@gmail.com
+Password-> abc
 
 Features in project
 -------------------
